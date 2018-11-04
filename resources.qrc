@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/20.ico</file>
+        <file>icons/103.bmp</file>
+        <file>icons/120.bmp</file>
+        <file>icons/430.bmp</file>
+        <file>icons/BLD.BMP</file>
+        <file>icons/cut.bmp</file>
+        <file>icons/DBLUNDR.BMP</file>
+        <file>icons/exit.bmp</file>
+        <file>icons/ITL.BMP</file>
+        <file>icons/new2.bmp</file>
+        <file>icons/open3.bmp</file>
+        <file>icons/paste.bmp</file>
+        <file>icons/UNDRLN.BMP</file>
+        <file>icons/WORDUNDR.BMP</file>
+        <file>icons/001.GIF</file>
+        <file>icons/5.ico</file>
+        <file>icons/22.ico</file>
+        <file>icons/23.ico</file>
+        <file>icons/110.JPG</file>
+        <file>icons/132.bmp</file>
+        <file>icons/212.bmp</file>
+        <file>icons/214.bmp</file>
+        <file>icons/224.bmp</file>
+        <file>icons/237.GIF</file>
+        <file>icons/316.bmp</file>
+        <file>icons/318.bmp</file>
+        <file>icons/610.bmp</file>
+        <file>icons/612.bmp</file>
+        <file>icons/620.bmp</file>
+        <file>icons/622.bmp</file>
+        <file>icons/624.bmp</file>
+        <file>icons/632.bmp</file>
+        <file>icons/828.bmp</file>
+        <file>icons/Audio CD.ico</file>
+        <file>icons/Movie Clip.ico</file>
+        <file>icons/mute.bmp</file>
+        <file>icons/Recycle Bin empty.ico</file>
+        <file>icons/volumn.bmp</file>
+        <file>icons/Wave Sound.ico</file>
+        <file>icons/Refresh.ico</file>
+    </qresource>
+</RCC>
