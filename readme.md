@@ -1,1 +1,1 @@
-# 基于Qt5的ftp播放器
+# This is a FTP server player base on QT5
