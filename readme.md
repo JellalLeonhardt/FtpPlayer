@@ -1,1 +1,1 @@
-# This is a FTP server player based on QT5
+# This is a FTP server video player based on QT5
